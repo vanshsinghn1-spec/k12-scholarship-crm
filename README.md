@@ -2,6 +2,9 @@
 
 A frontend demo for the **K12 Hunar Scholarship Management CRM**, built as part of the Frontend Developer Assessment.
 
+- **Live Demo**: [https://vanshsinghn1-spec.github.io/k12-scholarship-crm/](https://vanshsinghn1-spec.github.io/k12-scholarship-crm/)
+- **Repository**: [https://github.com/vanshsinghn1-spec/k12-scholarship-crm](https://github.com/vanshsinghn1-spec/k12-scholarship-crm)
+
 ## Features
 
 - **Dashboard Summary Cards** — Total Scholarships, Published, Draft, and Expired at a glance.
